@@ -10,8 +10,10 @@ Als gebruiker, wil ik een informatiepagina zien, zodat ik antwoord krijg op mijn
 
 ## 🎸 Activity Diagram
 <!-- Toon de activity Diagram -->
+
 ![Error & Loading State](https://github.com/JustinLung/keep-users-in-control-activity-diagram/blob/main/docs/loading-error-state.jpg?raw=true)
 ![Empty State](https://github.com/JustinLung/keep-users-in-control-activity-diagram/blob/main/docs/empty-state.jpg?raw=true)
+![wireflow](https://github.com/JustinLung/keep-users-in-control-activity-diagram/blob/main/docs/wireflow.png?raw=true)
 ![Acticity Diagram](https://github.com/JustinLung/keep-users-in-control-activity-diagram/blob/main/docs/activity-diagram.png?raw=true)
 
 ## 🖥 Uitleg pseudo-code 
