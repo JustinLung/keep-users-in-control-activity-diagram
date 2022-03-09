@@ -6,7 +6,7 @@ Activity Diagram voor de MijnHvA applicatie.
 
 ## 🍿 User Story
 <!-- Schrijf hier de User Story waar de Activity Diagram over gaat-->
-Als gebruiker, wil ik een aantal fetch states zien (loading state, error state & empty state), zodat ik weet dat de API werkt.
+Als gebruiker, wil ik een informatiepagina zien, zodat ik antwoord krijg op mijn vraag.
 
 ## 🎸 Activity Diagram
 <!-- Toon de activity Diagram -->
