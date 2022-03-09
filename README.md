@@ -10,6 +10,8 @@ Als gebruiker, wil ik een aantal fetch states zien (loading state, error state &
 
 ## 🎸 Activity Diagram
 <!-- Toon de activity Diagram -->
+![Error & Loading State](https://github.com/JustinLung/keep-users-in-control-activity-diagram/blob/main/docs/loading-error-state.jpg?raw=true)
+![Empty State](https://github.com/JustinLung/keep-users-in-control-activity-diagram/blob/main/docs/empty-state.jpg?raw=true)
 ![Acticity Diagram](https://github.com/JustinLung/keep-users-in-control-activity-diagram/blob/main/docs/activity-diagram.png?raw=true)
 
 ## 🖥 Uitleg pseudo-code 
